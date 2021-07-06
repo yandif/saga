@@ -1,2 +1,7 @@
 # saga
-⛰️ functional event emitter / pubsub.
+⛰️ functional event emitter / pubsub in deno.
+
+### Example
+```javascript
+
+```
