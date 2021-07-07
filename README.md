@@ -5,7 +5,7 @@
 ### Useage
 
 ```javascript
-import saga from "https://deno.land/x/saga@0.1/mod.ts";
+import saga from "https://deno.land/x/saga/mod.ts"
 
 const { on, emit } = saga();
 const arr = [];
